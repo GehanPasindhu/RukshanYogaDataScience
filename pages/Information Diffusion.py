@@ -103,7 +103,7 @@ with col1:
     st.image('degreeCentality.png')
 with col2:
     st.subheader("BETWEENESS CENTRALITY")
-    st.image('betweenesscentrality.png')
+    st.image('betweenessCentrality.png')
 
 
 st.set_option('deprecation.showPyplotGlobalUse', False)
