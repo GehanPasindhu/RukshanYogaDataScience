@@ -54,7 +54,7 @@ st.markdown(
 
 st.markdown(
  "<div style='text-align:right; margin-top:20px;'>"
-    "<p style='font-style:italic'>Note *<br>Social Media Analytics Dashboard for Rukshan Yoga Studios Application is designed as a part of the assignment of Social Media Analytics for Business module of MSc Data Science program.<br> Data used to present in this dashboard are only used for educational purposes and any of the data used here will not be used for any other purposes.</p>"
+    "<p style='font-style:italic'>Note *<br>Social Media Analytics Dashboard for Rukshan Yoga Studios Application is designed only for educational purpose.<br> And any of the data used here will not be used for any other purposes.</p>"
     "</div>", unsafe_allow_html=True
 )
 
