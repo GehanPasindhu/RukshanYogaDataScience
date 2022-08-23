@@ -9,7 +9,7 @@ st.set_page_config(
 
 st.markdown(
     "<div style='text-align:center;margin-bottom:20px'>"
-    "<h1>Social Media Analaytics Dashboard</h1>"
+    "<h1>Social Media Analytics Dashboard</h1>"
     "<h2>Rukshan Yoga Studio - Mirissa</h2>"
     "<img src='https://rukshanyoga.lk/wp-content/uploads/2021/01/Logo.svg' style='width:300px; margin-top:5px;'>"
     "</div>",
