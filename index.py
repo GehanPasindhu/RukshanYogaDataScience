@@ -27,21 +27,21 @@ with col1:
 with col2:
     st.markdown(
         "<div style='text-align:center; border:1px solid; padding:20px; border-radius:10px'>"
-        "<a href='/User_Engagement' target='_self' style='color:#f1f1f1; text-decoration:none'>Information Diffusion Analysis</a>"
+        "<a href='/Information_Diffusion' target='_self' style='color:#f1f1f1; text-decoration:none'>Information Diffusion Analysis</a>"
         "</div>",
         unsafe_allow_html=True
     )
 with col3:
     st.markdown(
         "<div style='text-align:center; border:1px solid; padding:20px; border-radius:10px'>"
-        "<a href='/User_Engagement' target='_self' style='color:#f1f1f1; text-decoration:none'>Keyword Analysis</a>"
+        "<a href='/Keyword_Analysis' target='_self' style='color:#f1f1f1; text-decoration:none'>Keyword Analysis</a>"
         "</div>",
         unsafe_allow_html=True
     )
 with col4:
     st.markdown(
         "<div style='text-align:center; border:1px solid; padding:20px; border-radius:10px'>"
-        "<a href='/User_Engagement' target='_self' style='color:#f1f1f1; text-decoration:none'>Polarity Analysis</a>"
+        "<a href='/Polarity' target='_self' style='color:#f1f1f1; text-decoration:none'>Polarity Analysis</a>"
         "</div>",
         unsafe_allow_html=True
     )
