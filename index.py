@@ -1,5 +1,5 @@
 # ...............Import Libraries..................
-import streamlit as st  # for User Interface (UI) design
+import streamlit as st  # for User Interface (UI) design 
 
 st.set_page_config(
     page_title="Rukshan Yoga Studio",
