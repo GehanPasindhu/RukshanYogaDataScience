@@ -1,3 +1,3 @@
 "# RukshanYogaDataScience" 
 
-<a href="https://gehanpasindhu-rukshanyogadatascience-index-az8hqs.streamlitapp.com/">Streamlink </a>
+<a href="https://gehanpasindhu-rukshanyogadatascience-index-q5tsi8.streamlitapp.com/">Streamlink </a>
